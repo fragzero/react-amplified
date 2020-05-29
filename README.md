@@ -1,4 +1,4 @@
-# AWS Amplify
+# AWS Amplify com React App
 https://docs.amplify.aws/start/getting-started/installation/q/integration/react#option-1-watch-the-video-guide
 
 ## Install
